@@ -28,9 +28,11 @@ is synced from it. The site's own address works as before; the copy sits behind 
 | [elections.iradgov.org](https://elections.iradgov.org/) | [elections](https://github.com/IRAD-WEB-MIRROR/elections) |
 | [gidromet.iradgov.org](https://gidromet.iradgov.org/) | [gidromet](https://github.com/IRAD-WEB-MIRROR/gidromet) |
 | [id.e-irad.org](https://id.e-irad.org/) | [eiradid](https://github.com/IRAD-WEB-MIRROR/eiradid) |
+| [irad.wiki](https://irad.wiki/) | [irad_wiki](https://github.com/IRAD-WEB-MIRROR/irad_wiki) |
 | [iradgov.org](https://iradgov.org/) | [iradgov](https://github.com/IRAD-WEB-MIRROR/iradgov) |
 | [jandarm.iradgov.org](https://jandarm.iradgov.org/) | [jandarm](https://github.com/IRAD-WEB-MIRROR/jandarm) |
 | [jilmay.com](https://jilmay.com/) | [jilmay](https://github.com/IRAD-WEB-MIRROR/jilmay) |
+| [kochaudio.online](https://kochaudio.online/) | [kochaudio](https://github.com/IRAD-WEB-MIRROR/kochaudio) |
 | [loto.iradgov.org](https://loto.iradgov.org/) | [loto](https://github.com/IRAD-WEB-MIRROR/loto) |
 | [mejlis.iradgov.org](https://mejlis.iradgov.org/) | [mejlis](https://github.com/IRAD-WEB-MIRROR/mejlis) |
 | [pay.e-irad.org](https://pay.e-irad.org/) | [eiradpay](https://github.com/IRAD-WEB-MIRROR/eiradpay) |
