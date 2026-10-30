@@ -20,6 +20,7 @@ is synced from it. The site's own address works as before; the copy sits behind 
 |---|---|
 | [ads.attelkom.net](https://ads.attelkom.net/) | [jarnama](https://github.com/IRAD-WEB-MIRROR/jarnama) |
 | [archives.iradgov.org](https://archives.iradgov.org/) | [state-archives](https://github.com/IRAD-WEB-MIRROR/state-archives) |
+| [arshakitep.com](https://arshakitep.com/) | [arsha-books](https://github.com/IRAD-WEB-MIRROR/arsha-books) |
 | [attelkom.net](https://attelkom.net/) | [attelkom-new](https://github.com/IRAD-WEB-MIRROR/attelkom-new) |
 | [avia.iradgov.org](https://avia.iradgov.org/) | [avia](https://github.com/IRAD-WEB-MIRROR/avia) |
 | [bank.iradgov.org](https://bank.iradgov.org/) | [bank-of-irad](https://github.com/IRAD-WEB-MIRROR/bank-of-irad) |
@@ -36,8 +37,10 @@ is synced from it. The site's own address works as before; the copy sits behind 
 | [iradtimes.com](https://iradtimes.com/) | [irad-times](https://github.com/IRAD-WEB-MIRROR/irad-times) |
 | [jandarm.iradgov.org](https://jandarm.iradgov.org/) | [jandarm](https://github.com/IRAD-WEB-MIRROR/jandarm) |
 | [jarysh.com](https://jarysh.com/) | [jarysh](https://github.com/IRAD-WEB-MIRROR/jarysh) |
+| [jibekskitchen.com](https://jibekskitchen.com/) | [dastorkon](https://github.com/IRAD-WEB-MIRROR/dastorkon) |
 | [jilmay.com](https://jilmay.com/) | [jilmay](https://github.com/IRAD-WEB-MIRROR/jilmay) |
 | [kochaudio.online](https://kochaudio.online/) | [kochaudio](https://github.com/IRAD-WEB-MIRROR/kochaudio) |
+| [kublesoft.net](https://kublesoft.net/) | [irad-trail](https://github.com/IRAD-WEB-MIRROR/irad-trail) |
 | [loto.iradgov.org](https://loto.iradgov.org/) | [loto](https://github.com/IRAD-WEB-MIRROR/loto) |
 | [maps.attelkom.net](https://maps.attelkom.net/) | [kartalar](https://github.com/IRAD-WEB-MIRROR/kartalar) |
 | [mejlis.iradgov.org](https://mejlis.iradgov.org/) | [mejlis](https://github.com/IRAD-WEB-MIRROR/mejlis) |
@@ -46,10 +49,13 @@ is synced from it. The site's own address works as before; the copy sits behind 
 | [railways.iradgov.org](https://railways.iradgov.org/) | [railways](https://github.com/IRAD-WEB-MIRROR/railways) |
 | [saintjanyl.org](https://saintjanyl.org/) | [churchofsaintjanyl](https://github.com/IRAD-WEB-MIRROR/churchofsaintjanyl) |
 | [stats.iradgov.org](https://stats.iradgov.org/) | [stats](https://github.com/IRAD-WEB-MIRROR/stats) |
+| [steppecrawl.online](https://steppecrawl.online/) | [steppe-crawl](https://github.com/IRAD-WEB-MIRROR/steppe-crawl) |
+| [talas-sut.com](https://talas-sut.com/) | [talas-sut](https://github.com/IRAD-WEB-MIRROR/talas-sut) |
 | [talasherald.com](https://talasherald.com/) | [talas-herald](https://github.com/IRAD-WEB-MIRROR/talas-herald) |
 | [talasuniversity.org](https://talasuniversity.org/) | [TSU](https://github.com/IRAD-WEB-MIRROR/TSU) |
 | [tender.e-irad.org](https://tender.e-irad.org/) | [eiradtender](https://github.com/IRAD-WEB-MIRROR/eiradtender) |
 | [tulparapp.com](https://tulparapp.com/) | [tulpar](https://github.com/IRAD-WEB-MIRROR/tulpar) |
+| [visitirad.com](https://visitirad.com/) | [visit-irad](https://github.com/IRAD-WEB-MIRROR/visit-irad) |
 | [vnurzhan.com](https://vnurzhan.com/) | [vnurzhan](https://github.com/IRAD-WEB-MIRROR/vnurzhan) |
 | [www.attelkom.net](https://wwv.attelkom.net/) | [attelkom-old](https://github.com/IRAD-WEB-MIRROR/attelkom-old) |
 
