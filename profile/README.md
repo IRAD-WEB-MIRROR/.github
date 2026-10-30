@@ -40,6 +40,7 @@ is synced from it. The site's own address works as before; the copy sits behind 
 | [jibekskitchen.com](https://jibekskitchen.com/) | [dastorkon](https://github.com/IRAD-WEB-MIRROR/dastorkon) |
 | [jilmay.com](https://jilmay.com/) | [jilmay](https://github.com/IRAD-WEB-MIRROR/jilmay) |
 | [kochaudio.online](https://kochaudio.online/) | [kochaudio](https://github.com/IRAD-WEB-MIRROR/kochaudio) |
+| [kopuro.org](https://kopuro.org/) | [kopuro](https://github.com/IRAD-WEB-MIRROR/kopuro) |
 | [kublesoft.net](https://kublesoft.net/) | [irad-trail](https://github.com/IRAD-WEB-MIRROR/irad-trail) |
 | [loto.iradgov.org](https://loto.iradgov.org/) | [loto](https://github.com/IRAD-WEB-MIRROR/loto) |
 | [maps.attelkom.net](https://maps.attelkom.net/) | [kartalar](https://github.com/IRAD-WEB-MIRROR/kartalar) |
