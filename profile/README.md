@@ -53,6 +53,8 @@ is synced from it. The site's own address works as before; the copy sits behind 
 | [stats.iradgov.org](https://stats.iradgov.org/) | [stats](https://github.com/IRAD-WEB-MIRROR/stats) |
 | [steppecrawl.online](https://steppecrawl.online/) | [steppe-crawl](https://github.com/IRAD-WEB-MIRROR/steppe-crawl) |
 | [talas-sut.com](https://talas-sut.com/) | [talas-sut](https://github.com/IRAD-WEB-MIRROR/talas-sut) |
+| [talasbank.net](https://talasbank.net/) | [talasbank](https://github.com/IRAD-WEB-MIRROR/talasbank) |
+| [ib.talasbank.net](https://ib.talasbank.net/) | [talasbank-ib](https://github.com/IRAD-WEB-MIRROR/talasbank-ib) |
 | [talasherald.com](https://talasherald.com/) | [talas-herald](https://github.com/IRAD-WEB-MIRROR/talas-herald) |
 | [talasuniversity.org](https://talasuniversity.org/) | [TSU](https://github.com/IRAD-WEB-MIRROR/TSU) |
 | [tender.e-irad.org](https://tender.e-irad.org/) | [eiradtender](https://github.com/IRAD-WEB-MIRROR/eiradtender) |
