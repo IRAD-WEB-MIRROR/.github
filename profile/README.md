@@ -17,7 +17,9 @@ is synced from it. The site's own address works as before; the copy sits behind 
 
 | Site | Repository |
 |---|---|
+| [ads.attelkom.net](https://ads.attelkom.net/) | [jarnama](https://github.com/IRAD-WEB-MIRROR/jarnama) |
 | [archives.iradgov.org](https://archives.iradgov.org/) | [state-archives](https://github.com/IRAD-WEB-MIRROR/state-archives) |
+| [attelkom.net](https://attelkom.net/) | [attelkom-new](https://github.com/IRAD-WEB-MIRROR/attelkom-new) |
 | [avia.iradgov.org](https://avia.iradgov.org/) | [avia](https://github.com/IRAD-WEB-MIRROR/avia) |
 | [bank.iradgov.org](https://bank.iradgov.org/) | [bank-of-irad](https://github.com/IRAD-WEB-MIRROR/bank-of-irad) |
 | [court.iradgov.org](https://court.iradgov.org/) | [court](https://github.com/IRAD-WEB-MIRROR/court) |
@@ -26,14 +28,21 @@ is synced from it. The site's own address works as before; the copy sits behind 
 | [elections.iradgov.org](https://elections.iradgov.org/) | [elections](https://github.com/IRAD-WEB-MIRROR/elections) |
 | [gidromet.iradgov.org](https://gidromet.iradgov.org/) | [gidromet](https://github.com/IRAD-WEB-MIRROR/gidromet) |
 | [id.e-irad.org](https://id.e-irad.org/) | [eiradid](https://github.com/IRAD-WEB-MIRROR/eiradid) |
+| [iradgov.org](https://iradgov.org/) | [iradgov](https://github.com/IRAD-WEB-MIRROR/iradgov) |
 | [jandarm.iradgov.org](https://jandarm.iradgov.org/) | [jandarm](https://github.com/IRAD-WEB-MIRROR/jandarm) |
+| [jilmay.com](https://jilmay.com/) | [jilmay](https://github.com/IRAD-WEB-MIRROR/jilmay) |
 | [loto.iradgov.org](https://loto.iradgov.org/) | [loto](https://github.com/IRAD-WEB-MIRROR/loto) |
 | [mejlis.iradgov.org](https://mejlis.iradgov.org/) | [mejlis](https://github.com/IRAD-WEB-MIRROR/mejlis) |
 | [pay.e-irad.org](https://pay.e-irad.org/) | [eiradpay](https://github.com/IRAD-WEB-MIRROR/eiradpay) |
 | [post.iradgov.org](https://post.iradgov.org/) | [irad-post](https://github.com/IRAD-WEB-MIRROR/irad-post) |
 | [railways.iradgov.org](https://railways.iradgov.org/) | [railways](https://github.com/IRAD-WEB-MIRROR/railways) |
+| [saintjanyl.org](https://saintjanyl.org/) | [churchofsaintjanyl](https://github.com/IRAD-WEB-MIRROR/churchofsaintjanyl) |
 | [stats.iradgov.org](https://stats.iradgov.org/) | [stats](https://github.com/IRAD-WEB-MIRROR/stats) |
+| [talasuniversity.org](https://talasuniversity.org/) | [TSU](https://github.com/IRAD-WEB-MIRROR/TSU) |
 | [tender.e-irad.org](https://tender.e-irad.org/) | [eiradtender](https://github.com/IRAD-WEB-MIRROR/eiradtender) |
+| [tulparapp.com](https://tulparapp.com/) | [tulpar](https://github.com/IRAD-WEB-MIRROR/tulpar) |
+| [vnurzhan.com](https://vnurzhan.com/) | [vnurzhan](https://github.com/IRAD-WEB-MIRROR/vnurzhan) |
+| [www.attelkom.net](https://wwv.attelkom.net/) | [attelkom-old](https://github.com/IRAD-WEB-MIRROR/attelkom-old) |
 
 ## Something broken?
 
