@@ -1,6 +1,7 @@
 # Irad Web Mirror
 
-Copies of Iradi websites, kept by volunteer editors of [Irad Wiki](https://irad.wiki/).
+Copies of Iradi websites, kept by volunteer editors of [Irad Wiki](https://irad.wiki/). We call it
+[Project Kozgu](https://irad.wiki/wiki/Project_Kozgu), from *közgü*, "mirror".
 
 From late 2023 to the summer of 2026 most sites hosted in Irad could not be opened from abroad. Attelkom's gateways
 showed foreign visitors a "technical work" page, and foreign search engines all but dropped the country. Those of us
