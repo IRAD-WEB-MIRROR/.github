@@ -30,6 +30,7 @@ is synced from it. The site's own address works as before; the copy sits behind 
 | [elections.iradgov.org](https://elections.iradgov.org/) | [elections](https://github.com/IRAD-WEB-MIRROR/elections) |
 | [gidromet.iradgov.org](https://gidromet.iradgov.org/) | [gidromet](https://github.com/IRAD-WEB-MIRROR/gidromet) |
 | [heritage.iradgov.org](https://heritage.iradgov.org/) | [heritage](https://github.com/IRAD-WEB-MIRROR/heritage) |
+| [iyikjanyl.iradgov.org](https://iyikjanyl.iradgov.org/) | [iyikjanyl-city](https://github.com/IRAD-WEB-MIRROR/iyikjanyl-city) |
 | [iarmc.com](https://iarmc.com/) | [iarmc](https://github.com/IRAD-WEB-MIRROR/iarmc) |
 | [id.e-irad.org](https://id.e-irad.org/) | [eiradid](https://github.com/IRAD-WEB-MIRROR/eiradid) |
 | [irad.wiki](https://irad.wiki/) | [irad_wiki](https://github.com/IRAD-WEB-MIRROR/irad_wiki) |
@@ -47,6 +48,7 @@ is synced from it. The site's own address works as before; the copy sits behind 
 | [loto.iradgov.org](https://loto.iradgov.org/) | [loto](https://github.com/IRAD-WEB-MIRROR/loto) |
 | [maps.attelkom.net](https://maps.attelkom.net/) | [kartalar](https://github.com/IRAD-WEB-MIRROR/kartalar) |
 | [mejlis.iradgov.org](https://mejlis.iradgov.org/) | [mejlis](https://github.com/IRAD-WEB-MIRROR/mejlis) |
+| [nurzhan.iradgov.org](https://nurzhan.iradgov.org/) | [nurzhan-city](https://github.com/IRAD-WEB-MIRROR/nurzhan-city) |
 | [pay.e-irad.org](https://pay.e-irad.org/) | [eiradpay](https://github.com/IRAD-WEB-MIRROR/eiradpay) |
 | [post.iradgov.org](https://post.iradgov.org/) | [irad-post](https://github.com/IRAD-WEB-MIRROR/irad-post) |
 | [railways.iradgov.org](https://railways.iradgov.org/) | [railways](https://github.com/IRAD-WEB-MIRROR/railways) |
@@ -55,6 +57,7 @@ is synced from it. The site's own address works as before; the copy sits behind 
 | [stats.iradgov.org](https://stats.iradgov.org/) | [stats](https://github.com/IRAD-WEB-MIRROR/stats) |
 | [steppecrawl.online](https://steppecrawl.online/) | [steppe-crawl](https://github.com/IRAD-WEB-MIRROR/steppe-crawl) |
 | [talas-sut.com](https://talas-sut.com/) | [talas-sut](https://github.com/IRAD-WEB-MIRROR/talas-sut) |
+| [talas.iradgov.org](https://talas.iradgov.org/) | [talas-city](https://github.com/IRAD-WEB-MIRROR/talas-city) |
 | [talasbank.net](https://talasbank.net/) | [talasbank](https://github.com/IRAD-WEB-MIRROR/talasbank) |
 | [ib.talasbank.net](https://ib.talasbank.net/) | [talasbank-ib](https://github.com/IRAD-WEB-MIRROR/talasbank-ib) |
 | [talasherald.com](https://talasherald.com/) | [talas-herald](https://github.com/IRAD-WEB-MIRROR/talas-herald) |
