@@ -28,6 +28,8 @@ is synced from it. The site's own address works as before; the copy sits behind 
 | [biz.attelkom.net](https://biz.attelkom.net/) | [attelkom-biz](https://github.com/IRAD-WEB-MIRROR/attelkom-biz) |
 | [court.iradgov.org](https://court.iradgov.org/) | [court](https://github.com/IRAD-WEB-MIRROR/court) |
 | [customs.iradgov.org](https://customs.iradgov.org/) | [customs](https://github.com/IRAD-WEB-MIRROR/customs) |
+| [economy.iradgov.org](https://economy.iradgov.org/) | [economy](https://github.com/IRAD-WEB-MIRROR/economy) |
+| [education.iradgov.org](https://education.iradgov.org/) | [education](https://github.com/IRAD-WEB-MIRROR/education) |
 | [e-irad.org](https://e-irad.org/) | [e-irad](https://github.com/IRAD-WEB-MIRROR/e-irad) |
 | [elections.iradgov.org](https://elections.iradgov.org/) | [elections](https://github.com/IRAD-WEB-MIRROR/elections) |
 | [energo.iradgov.org](https://energo.iradgov.org/) | [iradenergo](https://github.com/IRAD-WEB-MIRROR/iradenergo) |
@@ -56,6 +58,7 @@ is synced from it. The site's own address works as before; the copy sits behind 
 | [pay.e-irad.org](https://pay.e-irad.org/) | [eiradpay](https://github.com/IRAD-WEB-MIRROR/eiradpay) |
 | [post.iradgov.org](https://post.iradgov.org/) | [irad-post](https://github.com/IRAD-WEB-MIRROR/irad-post) |
 | [railways.iradgov.org](https://railways.iradgov.org/) | [railways](https://github.com/IRAD-WEB-MIRROR/railways) |
+| [resources.iradgov.org](https://resources.iradgov.org/) | [resources](https://github.com/IRAD-WEB-MIRROR/resources) |
 | [saintjanyl.org](https://saintjanyl.org/) | [churchofsaintjanyl](https://github.com/IRAD-WEB-MIRROR/churchofsaintjanyl) |
 | [search.attelkom.net](https://search.attelkom.net/) | [search](https://github.com/IRAD-WEB-MIRROR/search) |
 | [status.attelkom.net](https://status.attelkom.net/) | [attelkom-status](https://github.com/IRAD-WEB-MIRROR/attelkom-status) |
