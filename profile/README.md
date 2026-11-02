@@ -37,6 +37,11 @@ is synced from it. The site's own address works as before; the copy sits behind 
 | [gidromet.iradgov.org](https://gidromet.iradgov.org/) | [gidromet](https://github.com/IRAD-WEB-MIRROR/gidromet) |
 | [heritage.iradgov.org](https://heritage.iradgov.org/) | [heritage](https://github.com/IRAD-WEB-MIRROR/heritage) |
 | [health.iradgov.org](https://health.iradgov.org/) | [health](https://github.com/IRAD-WEB-MIRROR/health) |
+| [ijpc.iradedu.org](https://ijpc.iradedu.org/) | [ijpc](https://github.com/IRAD-WEB-MIRROR/ijpc) |
+| [iradedu.org](https://iradedu.org/) | [iradedu](https://github.com/IRAD-WEB-MIRROR/iradedu) |
+| [lyceum1.iradedu.org](https://lyceum1.iradedu.org/) | [lyceum1](https://github.com/IRAD-WEB-MIRROR/lyceum1) |
+| [ntl.iradedu.org](https://ntl.iradedu.org/) | [ntl](https://github.com/IRAD-WEB-MIRROR/ntl) |
+| [pedagogy.iradedu.org](https://pedagogy.iradedu.org/) | [pedagogy](https://github.com/IRAD-WEB-MIRROR/pedagogy) |
 | [rh.health.iradgov.org](https://rh.health.iradgov.org/) | [rh-health](https://github.com/IRAD-WEB-MIRROR/rh-health) |
 | [iyikjanyl.iradgov.org](https://iyikjanyl.iradgov.org/) | [iyikjanyl-city](https://github.com/IRAD-WEB-MIRROR/iyikjanyl-city) |
 | [iarmc.com](https://iarmc.com/) | [iarmc](https://github.com/IRAD-WEB-MIRROR/iarmc) |
@@ -70,6 +75,7 @@ is synced from it. The site's own address works as before; the copy sits behind 
 | [steppecrawl.online](https://steppecrawl.online/) | [steppe-crawl](https://github.com/IRAD-WEB-MIRROR/steppe-crawl) |
 | [talas-sut.com](https://talas-sut.com/) | [talas-sut](https://github.com/IRAD-WEB-MIRROR/talas-sut) |
 | [talas.iradgov.org](https://talas.iradgov.org/) | [talas-city](https://github.com/IRAD-WEB-MIRROR/talas-city) |
+| [teskeyjar.iradedu.org](https://teskeyjar.iradedu.org/) | [teskeyjar](https://github.com/IRAD-WEB-MIRROR/teskeyjar) |
 | [transport.talas.iradgov.org](https://transport.talas.iradgov.org/) | [talas-transport](https://github.com/IRAD-WEB-MIRROR/talas-transport) |
 | [talasbank.net](https://talasbank.net/) | [talasbank](https://github.com/IRAD-WEB-MIRROR/talasbank) |
 | [ib.talasbank.net](https://ib.talasbank.net/) | [talasbank-ib](https://github.com/IRAD-WEB-MIRROR/talasbank-ib) |
