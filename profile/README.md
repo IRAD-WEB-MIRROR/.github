@@ -28,6 +28,7 @@ is synced from it. The site's own address works as before; the copy sits behind 
 | [customs.iradgov.org](https://customs.iradgov.org/) | [customs](https://github.com/IRAD-WEB-MIRROR/customs) |
 | [e-irad.org](https://e-irad.org/) | [e-irad](https://github.com/IRAD-WEB-MIRROR/e-irad) |
 | [elections.iradgov.org](https://elections.iradgov.org/) | [elections](https://github.com/IRAD-WEB-MIRROR/elections) |
+| [energo.iradgov.org](https://energo.iradgov.org/) | [iradenergo](https://github.com/IRAD-WEB-MIRROR/iradenergo) |
 | [gidromet.iradgov.org](https://gidromet.iradgov.org/) | [gidromet](https://github.com/IRAD-WEB-MIRROR/gidromet) |
 | [heritage.iradgov.org](https://heritage.iradgov.org/) | [heritage](https://github.com/IRAD-WEB-MIRROR/heritage) |
 | [health.iradgov.org](https://health.iradgov.org/) | [health](https://github.com/IRAD-WEB-MIRROR/health) |
