@@ -58,6 +58,7 @@ is synced from it. The site's own address works as before; the copy sits behind 
 | [railways.iradgov.org](https://railways.iradgov.org/) | [railways](https://github.com/IRAD-WEB-MIRROR/railways) |
 | [saintjanyl.org](https://saintjanyl.org/) | [churchofsaintjanyl](https://github.com/IRAD-WEB-MIRROR/churchofsaintjanyl) |
 | [search.attelkom.net](https://search.attelkom.net/) | [search](https://github.com/IRAD-WEB-MIRROR/search) |
+| [status.attelkom.net](https://status.attelkom.net/) | [attelkom-status](https://github.com/IRAD-WEB-MIRROR/attelkom-status) |
 | [stats.iradgov.org](https://stats.iradgov.org/) | [stats](https://github.com/IRAD-WEB-MIRROR/stats) |
 | [steppecrawl.online](https://steppecrawl.online/) | [steppe-crawl](https://github.com/IRAD-WEB-MIRROR/steppe-crawl) |
 | [talas-sut.com](https://talas-sut.com/) | [talas-sut](https://github.com/IRAD-WEB-MIRROR/talas-sut) |
