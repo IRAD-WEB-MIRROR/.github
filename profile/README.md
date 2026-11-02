@@ -26,6 +26,7 @@ is synced from it. The site's own address works as before; the copy sits behind 
 | [avia.iradgov.org](https://avia.iradgov.org/) | [avia](https://github.com/IRAD-WEB-MIRROR/avia) |
 | [bank.iradgov.org](https://bank.iradgov.org/) | [bank-of-irad](https://github.com/IRAD-WEB-MIRROR/bank-of-irad) |
 | [biz.attelkom.net](https://biz.attelkom.net/) | [attelkom-biz](https://github.com/IRAD-WEB-MIRROR/attelkom-biz) |
+| [blog.attelkom.net](https://blog.attelkom.net/) | [attelkom-blog](https://github.com/IRAD-WEB-MIRROR/attelkom-blog) |
 | [court.iradgov.org](https://court.iradgov.org/) | [court](https://github.com/IRAD-WEB-MIRROR/court) |
 | [customs.iradgov.org](https://customs.iradgov.org/) | [customs](https://github.com/IRAD-WEB-MIRROR/customs) |
 | [economy.iradgov.org](https://economy.iradgov.org/) | [economy](https://github.com/IRAD-WEB-MIRROR/economy) |
