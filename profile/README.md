@@ -19,6 +19,7 @@ is synced from it. The site's own address works as before; the copy sits behind 
 | Site | Repository |
 |---|---|
 | [ads.attelkom.net](https://ads.attelkom.net/) | [jarnama](https://github.com/IRAD-WEB-MIRROR/jarnama) |
+| [agriculture.iradgov.org](https://agriculture.iradgov.org/) | [agriculture](https://github.com/IRAD-WEB-MIRROR/agriculture) |
 | [archives.iradgov.org](https://archives.iradgov.org/) | [state-archives](https://github.com/IRAD-WEB-MIRROR/state-archives) |
 | [arshakitep.com](https://arshakitep.com/) | [arsha-books](https://github.com/IRAD-WEB-MIRROR/arsha-books) |
 | [attelkom.net](https://attelkom.net/) | [attelkom-new](https://github.com/IRAD-WEB-MIRROR/attelkom-new) |
