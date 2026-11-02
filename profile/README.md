@@ -44,6 +44,7 @@ is synced from it. The site's own address works as before; the copy sits behind 
 | [iradgov.org](https://iradgov.org/) | [iradgov](https://github.com/IRAD-WEB-MIRROR/iradgov) |
 | [iradleague.com](https://iradleague.com/) | [irad-league](https://github.com/IRAD-WEB-MIRROR/irad-league) |
 | [iradone.com](https://iradone.com/) | [iradone](https://github.com/IRAD-WEB-MIRROR/iradone) |
+| [ru.iradone.com](https://ru.iradone.com/) | [iradodin](https://github.com/IRAD-WEB-MIRROR/iradodin) |
 | [iradtimes.com](https://iradtimes.com/) | [irad-times](https://github.com/IRAD-WEB-MIRROR/irad-times) |
 | [jandarm.iradgov.org](https://jandarm.iradgov.org/) | [jandarm](https://github.com/IRAD-WEB-MIRROR/jandarm) |
 | [jarysh.com](https://jarysh.com/) | [jarysh](https://github.com/IRAD-WEB-MIRROR/jarysh) |
