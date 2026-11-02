@@ -58,6 +58,7 @@ is synced from it. The site's own address works as before; the copy sits behind 
 | [nurzhan.iradgov.org](https://nurzhan.iradgov.org/) | [nurzhan-city](https://github.com/IRAD-WEB-MIRROR/nurzhan-city) |
 | [pay.e-irad.org](https://pay.e-irad.org/) | [eiradpay](https://github.com/IRAD-WEB-MIRROR/eiradpay) |
 | [post.iradgov.org](https://post.iradgov.org/) | [irad-post](https://github.com/IRAD-WEB-MIRROR/irad-post) |
+| [radio.vnurzhan.com](https://radio.vnurzhan.com/) | [chufm](https://github.com/IRAD-WEB-MIRROR/chufm) |
 | [railways.iradgov.org](https://railways.iradgov.org/) | [railways](https://github.com/IRAD-WEB-MIRROR/railways) |
 | [resources.iradgov.org](https://resources.iradgov.org/) | [resources](https://github.com/IRAD-WEB-MIRROR/resources) |
 | [saintjanyl.org](https://saintjanyl.org/) | [churchofsaintjanyl](https://github.com/IRAD-WEB-MIRROR/churchofsaintjanyl) |
