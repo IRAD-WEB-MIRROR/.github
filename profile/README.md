@@ -78,6 +78,7 @@ is synced from it. The site's own address works as before; the copy sits behind 
 | [tender.e-irad.org](https://tender.e-irad.org/) | [eiradtender](https://github.com/IRAD-WEB-MIRROR/eiradtender) |
 | [tukum.net](https://tukum.net/) | [tukum](https://github.com/IRAD-WEB-MIRROR/tukum) |
 | [tulparapp.com](https://tulparapp.com/) | [tulpar](https://github.com/IRAD-WEB-MIRROR/tulpar) |
+| [uyalar.net](https://uyalar.net/) | [uyalar](https://github.com/IRAD-WEB-MIRROR/uyalar) |
 | [visitirad.com](https://visitirad.com/) | [visit-irad](https://github.com/IRAD-WEB-MIRROR/visit-irad) |
 | [vnurzhan.com](https://vnurzhan.com/) | [vnurzhan](https://github.com/IRAD-WEB-MIRROR/vnurzhan) |
 | [www.attelkom.net](https://wwv.attelkom.net/) | [attelkom-old](https://github.com/IRAD-WEB-MIRROR/attelkom-old) |
