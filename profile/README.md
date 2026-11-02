@@ -61,6 +61,7 @@ is synced from it. The site's own address works as before; the copy sits behind 
 | [steppecrawl.online](https://steppecrawl.online/) | [steppe-crawl](https://github.com/IRAD-WEB-MIRROR/steppe-crawl) |
 | [talas-sut.com](https://talas-sut.com/) | [talas-sut](https://github.com/IRAD-WEB-MIRROR/talas-sut) |
 | [talas.iradgov.org](https://talas.iradgov.org/) | [talas-city](https://github.com/IRAD-WEB-MIRROR/talas-city) |
+| [transport.talas.iradgov.org](https://transport.talas.iradgov.org/) | [talas-transport](https://github.com/IRAD-WEB-MIRROR/talas-transport) |
 | [talasbank.net](https://talasbank.net/) | [talasbank](https://github.com/IRAD-WEB-MIRROR/talasbank) |
 | [ib.talasbank.net](https://ib.talasbank.net/) | [talasbank-ib](https://github.com/IRAD-WEB-MIRROR/talasbank-ib) |
 | [talasherald.com](https://talasherald.com/) | [talas-herald](https://github.com/IRAD-WEB-MIRROR/talas-herald) |
