@@ -44,6 +44,7 @@ is synced from it. The site's own address works as before; the copy sits behind 
 | [iradedu.org](https://iradedu.org/) | [iradedu](https://github.com/IRAD-WEB-MIRROR/iradedu) |
 | [korkom.org](https://korkom.org/) | [korkom](https://github.com/IRAD-WEB-MIRROR/korkom) |
 | [akzal.korkom.org](https://akzal.korkom.org/) | [akzal](https://github.com/IRAD-WEB-MIRROR/akzal) |
+| [circus.korkom.org](https://circus.korkom.org/) | [circus](https://github.com/IRAD-WEB-MIRROR/circus) |
 | [philharmonic.korkom.org](https://philharmonic.korkom.org/) | [philharmonic](https://github.com/IRAD-WEB-MIRROR/philharmonic) |
 | [teatr.korkom.org](https://teatr.korkom.org/) | [teatr](https://github.com/IRAD-WEB-MIRROR/teatr) |
 | [lyceum1.iradedu.org](https://lyceum1.iradedu.org/) | [lyceum1](https://github.com/IRAD-WEB-MIRROR/lyceum1) |
