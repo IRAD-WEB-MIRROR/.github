@@ -20,11 +20,13 @@ is synced from it. The site's own address works as before; the copy sits behind 
 |---|---|
 | [ads.attelkom.net](https://ads.attelkom.net/) | [jarnama](https://github.com/IRAD-WEB-MIRROR/jarnama) |
 | [agriculture.iradgov.org](https://agriculture.iradgov.org/) | [agriculture](https://github.com/IRAD-WEB-MIRROR/agriculture) |
+| [akkuu.korkom.org](https://akkuu.korkom.org/) | [akkuu](https://github.com/IRAD-WEB-MIRROR/akkuu) |
 | [archives.iradgov.org](https://archives.iradgov.org/) | [state-archives](https://github.com/IRAD-WEB-MIRROR/state-archives) |
 | [arshakitep.com](https://arshakitep.com/) | [arsha-books](https://github.com/IRAD-WEB-MIRROR/arsha-books) |
 | [attelkom.net](https://attelkom.net/) | [attelkom-new](https://github.com/IRAD-WEB-MIRROR/attelkom-new) |
 | [avia.iradgov.org](https://avia.iradgov.org/) | [avia](https://github.com/IRAD-WEB-MIRROR/avia) |
 | [bank.iradgov.org](https://bank.iradgov.org/) | [bank-of-irad](https://github.com/IRAD-WEB-MIRROR/bank-of-irad) |
+| [besh-tash.korkom.org](https://besh-tash.korkom.org/) | [besh-tash](https://github.com/IRAD-WEB-MIRROR/besh-tash) |
 | [biz.attelkom.net](https://biz.attelkom.net/) | [attelkom-biz](https://github.com/IRAD-WEB-MIRROR/attelkom-biz) |
 | [blog.attelkom.net](https://blog.attelkom.net/) | [attelkom-blog](https://github.com/IRAD-WEB-MIRROR/attelkom-blog) |
 | [court.iradgov.org](https://court.iradgov.org/) | [court](https://github.com/IRAD-WEB-MIRROR/court) |
@@ -37,8 +39,10 @@ is synced from it. The site's own address works as before; the copy sits behind 
 | [gidromet.iradgov.org](https://gidromet.iradgov.org/) | [gidromet](https://github.com/IRAD-WEB-MIRROR/gidromet) |
 | [heritage.iradgov.org](https://heritage.iradgov.org/) | [heritage](https://github.com/IRAD-WEB-MIRROR/heritage) |
 | [health.iradgov.org](https://health.iradgov.org/) | [health](https://github.com/IRAD-WEB-MIRROR/health) |
+| [hunar.korkom.org](https://hunar.korkom.org/) | [hunar](https://github.com/IRAD-WEB-MIRROR/hunar) |
 | [ijpc.iradedu.org](https://ijpc.iradedu.org/) | [ijpc](https://github.com/IRAD-WEB-MIRROR/ijpc) |
 | [iradedu.org](https://iradedu.org/) | [iradedu](https://github.com/IRAD-WEB-MIRROR/iradedu) |
+| [korkom.org](https://korkom.org/) | [korkom](https://github.com/IRAD-WEB-MIRROR/korkom) |
 | [lyceum1.iradedu.org](https://lyceum1.iradedu.org/) | [lyceum1](https://github.com/IRAD-WEB-MIRROR/lyceum1) |
 | [ntl.iradedu.org](https://ntl.iradedu.org/) | [ntl](https://github.com/IRAD-WEB-MIRROR/ntl) |
 | [pedagogy.iradedu.org](https://pedagogy.iradedu.org/) | [pedagogy](https://github.com/IRAD-WEB-MIRROR/pedagogy) |
