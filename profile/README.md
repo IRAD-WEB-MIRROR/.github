@@ -63,6 +63,7 @@ is synced from it. The site's own address works as before; the copy sits behind 
 | [maps.attelkom.net](https://maps.attelkom.net/) | [kartalar](https://github.com/IRAD-WEB-MIRROR/kartalar) |
 | [mejlis.iradgov.org](https://mejlis.iradgov.org/) | [mejlis](https://github.com/IRAD-WEB-MIRROR/mejlis) |
 | [nurzhan.iradgov.org](https://nurzhan.iradgov.org/) | [nurzhan-city](https://github.com/IRAD-WEB-MIRROR/nurzhan-city) |
+| [palace.korkom.org](https://palace.korkom.org/) | [iradpalaceofart](https://github.com/IRAD-WEB-MIRROR/iradpalaceofart) |
 | [pay.e-irad.org](https://pay.e-irad.org/) | [eiradpay](https://github.com/IRAD-WEB-MIRROR/eiradpay) |
 | [post.iradgov.org](https://post.iradgov.org/) | [irad-post](https://github.com/IRAD-WEB-MIRROR/irad-post) |
 | [radio.vnurzhan.com](https://radio.vnurzhan.com/) | [chufm](https://github.com/IRAD-WEB-MIRROR/chufm) |
