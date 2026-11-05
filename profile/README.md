@@ -47,7 +47,7 @@ is synced from it. The site's own address works as before; the copy sits behind 
 | [akzal.korkom.org](https://akzal.korkom.org/) | [akzal](https://github.com/IRAD-WEB-MIRROR/akzal) |
 | [circus.korkom.org](https://circus.korkom.org/) | [circus](https://github.com/IRAD-WEB-MIRROR/circus) |
 | [philharmonic.korkom.org](https://philharmonic.korkom.org/) | [philharmonic](https://github.com/IRAD-WEB-MIRROR/philharmonic) |
-| [teatr.korkom.org](https://teatr.korkom.org/) | [teatr](https://github.com/IRAD-WEB-MIRROR/teatr) |
+| [nurzhan-drama.korkom.org](https://nurzhan-drama.korkom.org/) | [nurzhan-drama](https://github.com/IRAD-WEB-MIRROR/nurzhan-drama) |
 | [un.korkom.org](https://un.korkom.org/) | [un-archive](https://github.com/IRAD-WEB-MIRROR/un-archive) |
 | [ishakov.korkom.org](https://ishakov.korkom.org/) | [ishakov](https://github.com/IRAD-WEB-MIRROR/ishakov) |
 | [palace-workshop.korkom.org](https://palace-workshop.korkom.org/) | [palace-workshop](https://github.com/IRAD-WEB-MIRROR/palace-workshop) |
