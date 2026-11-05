@@ -40,6 +40,7 @@ is synced from it. The site's own address works as before; the copy sits behind 
 | [heritage.iradgov.org](https://heritage.iradgov.org/) | [heritage](https://github.com/IRAD-WEB-MIRROR/heritage) |
 | [health.iradgov.org](https://health.iradgov.org/) | [health](https://github.com/IRAD-WEB-MIRROR/health) |
 | [hunar.korkom.org](https://hunar.korkom.org/) | [hunar](https://github.com/IRAD-WEB-MIRROR/hunar) |
+| [ayyubov.iradedu.org](https://ayyubov.iradedu.org/) | [ayyubov](https://github.com/IRAD-WEB-MIRROR/ayyubov) |
 | [ijpc.iradedu.org](https://ijpc.iradedu.org/) | [ijpc](https://github.com/IRAD-WEB-MIRROR/ijpc) |
 | [iradedu.org](https://iradedu.org/) | [iradedu](https://github.com/IRAD-WEB-MIRROR/iradedu) |
 | [korkom.org](https://korkom.org/) | [korkom](https://github.com/IRAD-WEB-MIRROR/korkom) |
@@ -47,6 +48,12 @@ is synced from it. The site's own address works as before; the copy sits behind 
 | [circus.korkom.org](https://circus.korkom.org/) | [circus](https://github.com/IRAD-WEB-MIRROR/circus) |
 | [philharmonic.korkom.org](https://philharmonic.korkom.org/) | [philharmonic](https://github.com/IRAD-WEB-MIRROR/philharmonic) |
 | [teatr.korkom.org](https://teatr.korkom.org/) | [teatr](https://github.com/IRAD-WEB-MIRROR/teatr) |
+| [un.korkom.org](https://un.korkom.org/) | [un-archive](https://github.com/IRAD-WEB-MIRROR/un-archive) |
+| [ishakov.korkom.org](https://ishakov.korkom.org/) | [ishakov](https://github.com/IRAD-WEB-MIRROR/ishakov) |
+| [palace-workshop.korkom.org](https://palace-workshop.korkom.org/) | [palace-workshop](https://github.com/IRAD-WEB-MIRROR/palace-workshop) |
+| [ifs.korkom.org](https://ifs.korkom.org/) | [irad-film-society](https://github.com/IRAD-WEB-MIRROR/irad-film-society) |
+| [talas-opera.korkom.org](https://talas-opera.korkom.org/) | [talas-opera](https://github.com/IRAD-WEB-MIRROR/talas-opera) |
+| [chabalekei.korkom.org](https://chabalekei.korkom.org/) | [chabalekei](https://github.com/IRAD-WEB-MIRROR/chabalekei) |
 | [lyceum1.iradedu.org](https://lyceum1.iradedu.org/) | [lyceum1](https://github.com/IRAD-WEB-MIRROR/lyceum1) |
 | [ntl.iradedu.org](https://ntl.iradedu.org/) | [ntl](https://github.com/IRAD-WEB-MIRROR/ntl) |
 | [pedagogy.iradedu.org](https://pedagogy.iradedu.org/) | [pedagogy](https://github.com/IRAD-WEB-MIRROR/pedagogy) |
